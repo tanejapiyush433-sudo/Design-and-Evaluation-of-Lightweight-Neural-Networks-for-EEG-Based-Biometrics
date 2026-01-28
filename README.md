@@ -1,0 +1,2 @@
+# Design-and-Evaluation-of-Lightweight-Neural-Networks-for-EEG-Based-Biometrics
+This project investigates lightweight deep learning models for EEG-based biometric authentication using public datasets. It analyzes the accuracy–efficiency trade-off by comparing standard CNNs with resource-efficient architectures, aiming to achieve reliable biometric performance with reduced computational cost and improved deployability.
